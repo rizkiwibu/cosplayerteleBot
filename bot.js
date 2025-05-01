@@ -1,8 +1,8 @@
 const { Telegraf, Markup } = require("telegraf");
 const axios = require("axios");
 
-const bot = new Telegraf("7998604111:AAGa0L3JePANaCxu3j09BQFCaRJIM1PGYhY");
-const API_KEY = "vip";
+const bot = new Telegraf("isi di sini");
+const API_KEY = "free";
 const API_BASE = "https://restapi.rizk.my.id/sfwnsfw/cosplaytelensfw";
 
 bot.start((ctx) => {
